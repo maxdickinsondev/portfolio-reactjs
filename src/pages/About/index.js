@@ -51,7 +51,7 @@ export default function About() {
               </Text>
 
               <Text>
-                <ButtonCV href="https://github.com/user-attachments/files/22892291/Max_Dickinson_Frontend_CV.pdf">
+                <ButtonCV href="https://github.com/user-attachments/files/22894544/Max_Dickinson_Frontend_CV.pdf">
                   Baixar CV
                 </ButtonCV>
               </Text>
